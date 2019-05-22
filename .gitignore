@@ -1,0 +1,12 @@
+
+.vscode/
+node_modules/
+www/
+coverage/
+
+dist/
+**/www/build/
+
+
+test/**/www/*
+.stencil
